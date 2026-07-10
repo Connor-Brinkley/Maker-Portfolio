@@ -1,13 +1,4 @@
-<style>
-.page-full { max-width: 100%; padding-left: 30px; padding-right: 30px; }
-.row { display:flex; gap:24px; align-items:flex-start; }
-.col-left { flex: 0 0 300px; }   /* left column width (adjust) */
-.col-main { flex: 1; }
-@media (max-width: 760px) {
-  .row { flex-direction: column; }
-  .col-left { flex: none; width: 100%; }
-}
-</style>
+
 
 # My Engenering and Computing Journy
  Sup, I'm Connor Brinkley and this is documentation starting with my fist big project, and covering my High School Projects, and will be updated on any future works.
