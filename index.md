@@ -25,11 +25,7 @@ As you can see below these were earler blueprints i had made, each of these had 
   </div>
 </div>
 
-<div class="page-full" style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <div class="col-left" style="flex: 0 0 40%; min-width: 300px;">
-    <img src="./images/2.0.jpg" alt="photo" style="width:100%; display:block; object-fit: cover; max-height: 400px;">
-  </div>
-  <div class="col-main" style="flex: 1; min-width: 300px;">
-     Here you can see my final blue print. This way I will be using minimal parts to save on weight and replication, everything will be running on the rasberry pi, the only wireless connections will be the wifi and the speaker.
-  </div>
-</div>
+Here you can see my final blue print.
+<img src="./images/2.0.jpg" alt="photo" style="max-width:100%; height:auto; transform: rotate(-90deg); display:block; margin-bottom: 20px;">
+This way I will be using minimal parts to save on weight and replication, everything will be running on the rasberry pi, the only wireless connections will be the wifi and the speaker.
+
