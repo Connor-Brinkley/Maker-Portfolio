@@ -26,8 +26,6 @@ As you can see below these were earler blueprints i had made, each of these had 
 </div>
 
 Here you can see my final blue print.
-<div style="display: flex; justify-content: center; margin: 0; padding: 0; overflow: hidden;">
-  <img src="./images/2.0.jpg" alt="photo" style="max-width:40%; height:auto; transform: rotate(-90deg); display: block; margin: 0; padding: 0;">
-</div>
+![Alt text](./images/2.0.jpg)
 This way I will be using minimal parts to save on weight and replication, everything will be running on the rasberry pi, the only wireless connections will be the wifi and the speaker.
 
