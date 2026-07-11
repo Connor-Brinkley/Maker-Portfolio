@@ -29,3 +29,9 @@ Here you can see my final blue print.
 ![Alt text](./images/2.0.jpg)
 This way I will be using minimal parts to save on weight and replication, everything will be running on the rasberry pi, the only wireless connections will be the wifi and the speaker.
 
+## Begenings
+So far im waiting on everything to come it the mail, i will update this section when needed
+# My first project
+Chrismas 2017 my uncle gifted me an old desktop that the company he was working for was throwing away. To a seven year old me that was the best chrismas gift I could have ever gotten. Around 2021 the power suppy gave out. I didnt know the fix and at the time it was devistating, in retrospect it was the best thing to happen to me. This was around when my school started to upgrade its software and more to chromebooks, so after abit of dumpster diving I found an old desktop, that the school had claimed was "worthless" and "broken". I brought it home, and i was able to deignose my original power supply problem and was able to build this frankenstein computer.
+![Alt text](./images/New power supply I stripped from an old Desktop.jpg)
+This is my pride and joy, every design you will see on here was researched, coded, designed, and planed out on the recycled pc.
