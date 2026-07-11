@@ -1,7 +1,7 @@
 
 
 # My Engenering and Computing Journy
- Sup, I'm Connor Brinkley and this is documentation starting with my fist big project, and covering my High School Projects, and will be updated on any future works.
+ Sup, I'm Connor Brinkley welcome to my maker portfolio and this is documentation starting with my fist big project, and covering my High School Projects, and will be updated on any future works.
 # Hexpod
 This project I will be modifying a Freenove hexpod large model with a usb microphone, speaker, a 8 by 8 led screen, and a rasberry pi model 4 b. My end goal is to have an "Alexa on legs", It will use llm's for simple tasks and use an online ai for complexe ones.
 ## Blueprints
